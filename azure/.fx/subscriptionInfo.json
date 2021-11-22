@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
     "subscriptionId": "26ce6dbe-2922-4b5e-8354-cc983c17ea44",
     "subscriptionName": "Microsoft Azure Internal Consumption",
     "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+=======
+    "subscriptionId": "936f333a-2fee-4358-adad-83a977e8fbac",
+    "subscriptionName": "Microsoft Azure Sponsorship 2",
+    "tenantId": "57bcedff-2ddd-4b60-8ae1-cd204cdc5416"
+>>>>>>> 0402829aa9630b76360e9c0880d93e2b76d0f396
 }
